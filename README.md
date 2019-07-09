@@ -1,2 +1,2 @@
 # Qui-veut-gagner-des-millions
-Il s'agit d'une reproduction en console et avec le langage python du célèbre jeu télévisé "Qui veut gagner des million" cette version du jeu ne possède pas la possibilité d'utiliser les jokers et l'affichage des scores n'est pas ordonné correctement
+Il s'agit d'une reproduction en console et avec le langage python du célèbre jeu télévisé "Qui veut gagner des million" cette version du jeu ne possède pas la possibilité d'utiliser les jokers et l'affichage des scores n'est pas ordonné correctement. La selection aleatoire des questions peut s'averer répétitive dans certains cas. Merci de me faire part des bugs que vous découvriraz et de vos propositions d'amélioration!!!
