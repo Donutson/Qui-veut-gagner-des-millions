@@ -29,6 +29,8 @@ voirscores={"V","VOIR","2"}
 aide={"A","AIDE","HELP","3"}
 quitter={"Q","QUIT","QUITTER","4"}
 j=0
+with open("game/partie.txt","wb") as file:#creation du fichier si non existant
+    pass
 while(continuer):
     j+=1
     if(j==1):
